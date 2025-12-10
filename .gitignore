@@ -19,7 +19,7 @@ hola by deee# Angular specific
 /.angular-cli.json
 /.ng/
 
-# TypeScript cache
+# TypeScript cache cleaner 
 *.tsbuildinfo
 
 # Logs
